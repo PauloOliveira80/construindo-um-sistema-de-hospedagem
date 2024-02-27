@@ -1,0 +1,14 @@
+d:\Projetos\ProjetoHotel DIO\bin\Debug\net8.0\ProjetoHotel DIO.exe
+d:\Projetos\ProjetoHotel DIO\bin\Debug\net8.0\ProjetoHotel DIO.deps.json
+d:\Projetos\ProjetoHotel DIO\bin\Debug\net8.0\ProjetoHotel DIO.runtimeconfig.json
+d:\Projetos\ProjetoHotel DIO\bin\Debug\net8.0\ProjetoHotel DIO.dll
+d:\Projetos\ProjetoHotel DIO\bin\Debug\net8.0\ProjetoHotel DIO.pdb
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\ProjetoHotel DIO.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\ProjetoHotel DIO.AssemblyInfoInputs.cache
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\ProjetoHotel DIO.AssemblyInfo.cs
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\ProjetoHotel DIO.csproj.CoreCompileInputs.cache
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\ProjetoHotel DIO.dll
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\refint\ProjetoHotel DIO.dll
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\ProjetoHotel DIO.pdb
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\ProjetoHotel DIO.genruntimeconfig.cache
+d:\Projetos\ProjetoHotel DIO\obj\Debug\net8.0\ref\ProjetoHotel DIO.dll
