@@ -1,6 +1,6 @@
 # construindo-um-sistema-de-hospedagem
 
-Projeto feito em acordo com as solicitações da plataforma DIO, projeto feito do zero, sem utilizar o codigo de base.
+Projeto feito em acordo com as solicitações da plataforma DIO, projeto feito do zero, sem utilizar o código de base.
 
 # Contexto
 Você foi contratado para construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel. Você precisará usar a classe Pessoa, que representa o hóspede, a classe Suíte, e a classe Reserva, que fará um relacionamento entre ambos.
